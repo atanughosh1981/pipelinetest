@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.atanu.test"
+    },
+    "jhipsterVersion": "5.4.1",
+    "applicationType": "microservice",
+    "baseName": "pipelinetest",
+    "packageName": "com.atanu.test",
+    "packageFolder": "com/atanu/test",
+    "serverPort": "8777",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NWVlYzYxNzQzYjRmYzZkMWFiZTc3ODk0ZjhiODZkNzY2MzE0MzY3ZTY2OTkxNWM0NTc5ZDVkYWYzOWFhM2NlZWNlY2M2NzlmY2U4NmZjOTczZWFmM2I1ODczYjdjM2U1MWYyNWM1YTNhMGRjNTI4MjZhYTBkNDMwZGJiNmJiMjE=",
+    "enableTranslation": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
